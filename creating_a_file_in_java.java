@@ -7,8 +7,8 @@ class File1
         File f = new File("G:\\newfile.txt");      /*this statement will not create any physical file, firstly it will 
         check if the file with the given name is present in the current directory or not.
         * if it is available than*
-        "f simple refers to that file"
-        * if it is not available than*
+        "f simply refers to that file"
+        * if it is not available*
         "then we are just creating java file object to represent the name newfile.txt"
         */
 
