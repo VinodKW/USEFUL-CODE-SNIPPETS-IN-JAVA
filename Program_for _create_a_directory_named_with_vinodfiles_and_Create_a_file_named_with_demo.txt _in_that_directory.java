@@ -1,4 +1,4 @@
-/* code to create a directory named with vinodfiles in current working directory and create a file named with 
+/* code to create a directory named with vinodfiles1 in current working directory and create a file named with 
 demo.txt in that directory */
 import java.io.*;
 
