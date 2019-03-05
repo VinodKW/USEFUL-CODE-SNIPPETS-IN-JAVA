@@ -6,8 +6,8 @@ We can use FileWriter to write Charachter data in the file
 1) FileWriter f = new FileWriter(String filename);
 2) FileWriter f = new FileWriter(File f);
 
-these above filewriters meant of overriding of the existing data. Instead of overriding if we want append
-operation then we have to create file writer by using the following constructors.
+these above filewriters are meant for overriding of the existing data. Instead of overriding if we want the append
+operation then we have to create a file writer by using the following constructors.
 
 3) FileWriter f = new FileWriter(String filename, boolean append);
 4) FileWriter f = new FileWriter(File f, boolean append);
